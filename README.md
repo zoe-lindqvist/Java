@@ -1,6 +1,6 @@
 # My Java Assignments Repository
 
-This repository contains various assignments I've completed for the Java course.
+This repository contains various assignments I've completed for the Java course at Luleå University of Technology.
 
 ## Notes
 - All assignments have detailed header comments in the respective code files.
